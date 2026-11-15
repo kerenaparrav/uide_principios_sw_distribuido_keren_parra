@@ -1,0 +1,4 @@
+Estoy practicando comandos en Linux. 
+Esta tarea utiliza archivos y directorios.
+Aprendo paso a paso.
+Tambien practico la redireccion de salida.
